@@ -1,0 +1,24 @@
+{
+"product":[
+{"id":1,"name":"Tin","category":"Turquoise"},
+{"id":2,"name":"Keylex","category":"Goldenrod"},
+{"id":3,"name":"Flexidy","category":"Fuscia"},
+{"id":4,"name":"Zontrax","category":"Green"},
+{"id":5,"name":"Cookley","category":"Crimson"},
+{"id":6,"name":"Voltsillam","category":"Goldenrod"},
+{"id":7,"name":"Alphazap","category":"Crimson"},
+{"id":8,"name":"Mat Lam Tam","category":"Green"},
+{"id":9,"name":"Y-Solowarm","category":"Khaki"},
+{"id":10,"name":"Toughjoyfax","category":"Fuscia"},
+{"id":11,"name":"Daltfresh","category":"Purple"},
+{"id":12,"name":"Cardify","category":"Fuscia"},
+{"id":13,"name":"Andalax","category":"Orange"},
+{"id":14,"name":"Alphazap","category":"Orange"},
+{"id":15,"name":"Fintone","category":"Aquamarine"},
+{"id":16,"name":"Flexidy","category":"Yellow"},
+{"id":17,"name":"Cookley","category":"Khaki"},
+{"id":18,"name":"Stim","category":"Blue"},
+{"id":19,"name":"Solarbreeze","category":"Indigo"},
+{"id":20,"name":"Zoolab","category":"Goldenrod"}
+]
+}
